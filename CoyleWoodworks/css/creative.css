@@ -186,7 +186,7 @@ header .header-content .header-content-inner h1 {
   margin-top: 0;
   margin-bottom: 0;
   font-size: 30px;
-  
+
 }
 header .header-content .header-content-inner hr {
   margin: 30px auto;
@@ -515,7 +515,7 @@ img.resize{
   border-top: 2px solid black;
 }
 #pricing{
-  
+
   background-image: url('../img/backgrounds/greyabovelight.jpeg');
     /*background-repeat: no-repeat;*/
     background-attachment: fixed;
@@ -542,7 +542,7 @@ img.resize{
     padding-top:80px;
 }
 #Barrels *{
-  color: white;
+  color: black;
 }
 
 #customers{
@@ -582,14 +582,14 @@ img.resize{
   border:1px solid black;
   text-align: center;
   vertical-align: middle;
-  line-height: 90px; 
+  line-height: 90px;
 }
 .layerbox{
   border:1px solid black;
   background: grey;
   text-align: center;
   vertical-align: middle;
-  line-height: 90px; 
+  line-height: 90px;
 }
 
 .bodybox{
@@ -597,7 +597,7 @@ img.resize{
   background: white;
   text-align: center;
   vertical-align: middle;
-  line-height: 30px; 
+  line-height: 30px;
 }
 
 
@@ -667,7 +667,7 @@ img.resize{
 
 .donate-now label {
      padding:5px;
-     
+
      cursor:pointer;
 }
 
@@ -712,8 +712,8 @@ img.resize{
 
 .donate-now label {
      padding:5px;
-     border-left:1px solid #CCC; 
-     border-right:1px solid #CCC; 
+     border-left:1px solid #CCC;
+     border-right:1px solid #CCC;
       background:#76323F;
       color:white;
      cursor:pointer;
@@ -762,7 +762,7 @@ background-color: rgba(255, 255, 255, 0.8);
   border-radius: 15px;
 }
 #ss-form{
-  
+
   padding: 20px;
   padding-top:0px;
 }
